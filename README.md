@@ -1,7 +1,7 @@
 # React + Vite
 
 # how to use 
-Step 1: You should have install npm in your pc.
+Step 1: You should have install npm in your pc. <br/>
 Step 2: Open the folder in terminal where you copy or clone the project.
 Step 3: Run "npm install" command in the terminal. #its install all the reqired packages.
 Step 4: Run "npm run dev" command in the terminal. 
